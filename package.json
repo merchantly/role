@@ -1,0 +1,9 @@
+{
+  "name": "jquery.role",
+  "version": "1.3.1",
+  "description": "jQuery plugin to provide easy way to handle DOM elements by role attribute",
+  "main": "lib/role.js",
+  "repository": "git@github.com:sibsfinx/role.git",
+  "author": "Sasha Koss <kossnocorp@gmail.com>",
+  "license": "MIT"
+}
